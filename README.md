@@ -9,4 +9,11 @@ def factorial(n):
     for n in range() return split'n'
     # how to multiply lists in order
     #, n.split(''), ''.join()
+
+# class answer    
+i = 1
+n = 6
+for num in range(1, n + 1):
+    i *= num
+    return i
     
