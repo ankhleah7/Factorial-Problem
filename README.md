@@ -6,6 +6,7 @@ def factorial(n):
     range()
     split''
     
-    for n in range() return 
+    for n in range() return split'n'
     # how to multiply lists in order
+    #, n.split(''), ''.join()
     
